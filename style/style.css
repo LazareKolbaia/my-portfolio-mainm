@@ -248,9 +248,7 @@ header.sticky nav a {
   padding: 20px;
 }
 
-section {
-  border-bottom: 2px solid red;
-} 
+
 .hero {
   z-index: 2;
   text-align: center;
